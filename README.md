@@ -9,3 +9,17 @@ iTerm2 是 macOS 平台上最好用的 terminal 程序之一。它的功能十�
 希望对大家能有一点点帮助。
 
 eillsu
+
+------
+
+[iTerm2 中文简要指南](https://github.com/eillsu/iTerm2-Chinese-Tutorial/blob/master/iTerm2 中文简要指南.md)
+
+[iTerm2 常用快捷键](https://github.com/eillsu/iTerm2-Chinese-Tutorial/blob/master/iTerm2 常用快捷键.md)
+
+[iTerm2 官方文档 - 目录](https://github.com/eillsu/iTerm2-Chinese-Tutorial/blob/master/iTerm2 官方文档 - 目录.md)
+
+## 1 介绍
+
+[1.1 新亮点](https://github.com/eillsu/iTerm2-Chinese-Tutorial/blob/master/1 介绍/1.1 新亮点.md)
+
+[1.2 一般用法](https://github.com/eillsu/iTerm2-Chinese-Tutorial/blob/master/1 介绍/1.2 一般用法.md)
