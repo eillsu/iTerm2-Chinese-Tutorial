@@ -61,4 +61,4 @@ eillsu
 - [Applescript](https://www.iterm2.com/documentation-scripting.html)
 - [动态配置文件](https://www.iterm2.com/documentation-dynamic-profiles.html)
 - [内嵌图像协议](https://www.iterm2.com/documentation-images.html)
-- [专有转义码](
+- [专有转义码](https://www.iterm2.com/documentation-escape-codes.html)
