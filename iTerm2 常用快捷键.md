@@ -74,3 +74,14 @@ https://github.com/eillsu/iTerm2-Chinese-Tutorial
 | Command + [           | 上一个Pane        |
 | Command + Option + F  | 密码管理器        |
 
+## Others
+
+| 快捷键        | 说明               |
+| ------------- | ------------------ |
+| Ctrl + U      | 清除当前行         |
+| Ctrl + A      | 到行首位置         |
+| Ctrl + E      | 到行尾位置         |
+| Ctrl + W      | 删除光标之前的内容 |
+| Ctrl + K      | 删除光标之后的内容 |
+| Ctrl + -      | 撤销               |
+| 向上\向下箭头 | 命令历史           |
